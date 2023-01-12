@@ -1,0 +1,28 @@
+[
+    {"id":1,
+        "name":"s22",
+        "price":1299,
+        "feature":true,
+        "company":"samsung"
+    },
+
+    {"id":2,
+        "name":"iphone",
+        "price":1299,
+        "feature":true,
+        "company":"apple"
+    }, 
+    {"id":3,
+        "name":"redmi",
+        "price":1299,
+        "feature":true,
+        "company":"MI"
+    },
+    {"id":4,
+        "name":"redmi",
+        "price":12,
+        "feature":true,
+        "company":"MI"
+    }
+]
+ 
