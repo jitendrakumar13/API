@@ -22,6 +22,6 @@ const start=async() => {
 };
 
 start();
-app.listen(5000,()=>{
+app.listen(process.env.PORT,()=>{
     console.log("server is runningg 5000");
 });
