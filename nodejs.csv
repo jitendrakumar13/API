@@ -1,0 +1,258 @@
+,heading,url,text
+0,Welcome ,https://cdn.fs.teachablecdn.com/1N9dD3plRdGGdB9N2hId,Not avilable
+1,What is Node ,https://cdn.fs.teachablecdn.com/tVgsVtj0QXqukKmYX9bZ,Not avilable
+2,Node Architecture ,https://cdn.fs.teachablecdn.com/cDUvB6HuR7OLgFsmSblM,Not avilable
+3,How Node Works ,https://cdn.fs.teachablecdn.com/slEM0SvSR968ZtK5TQSF,Not avilable
+4,Installing Node ,https://cdn.fs.teachablecdn.com/Hwmsn92CR0uI42I5iglq,Not avilable
+5,Your First Node Program ,https://cdn.fs.teachablecdn.com/fARRGIkQhiV2b75tF0wg,Not avilable
+6,Course Structure ,https://cdn.fs.teachablecdn.com/dSIU1WpaQEu6Ek2fmoFn,Not avilable
+7,Recap ,https://cdn.fs.teachablecdn.com/1IEIXXL8QrazhGomdlG8,Not avilable
+8,Follow Me Around ,Not avilable,"Want to get updates about my upcoming courses and discount coupons? Follow me on these platforms:
+
+Twitter: https://twitter.com/moshhamedani
+Facebook: https://www.facebook.com/programmingwithmosh
+YouTube: https://www.youtube.com/user/programmingwithmosh
+LinkedIn: https://www.linkedin.com/in/mosh-hamedani/"
+9,Learning Paths ,Not avilable,"I often get asked what courses to take and in what order to become a front-end, back-end, or a full-stack software engineer.
+
+I've created some possible learning paths to help you decide what’s best for you. You can find them at:
+https://codewithmosh.com/p/learning-paths"
+10,Introduction ,https://cdn.fs.teachablecdn.com/4cCWFxSHSwKoeTzlVGws,Not avilable
+11,Global Object ,https://cdn.fs.teachablecdn.com/60JgESfBQbKIdNdHZwJx,Not avilable
+12,Modules ,https://cdn.fs.teachablecdn.com/EqNYP7dqRvy6loc0ePyk,Not avilable
+13,Creating a Module ,https://cdn.fs.teachablecdn.com/MBsYntOUSX2bJL2GRzpZ,Not avilable
+14,Loading a Module ,https://cdn.fs.teachablecdn.com/JZdx7ShGQimahqVwe4zd,Not avilable
+15,Module Wrapper Function ,https://cdn.fs.teachablecdn.com/2kVI3xQR5CytTBBLbh5N,Not avilable
+16,Path Module ,https://cdn.fs.teachablecdn.com/mRPjFGKTsuWX0wy9c0Ap,Not avilable
+17,OS Module ,https://cdn.fs.teachablecdn.com/21nU7a6JQnW7yniHDo9r,Not avilable
+18,File System Module ,https://cdn.fs.teachablecdn.com/7w4i8cQVOk8OYA0FuXhw,Not avilable
+19,Events Module ,https://cdn.fs.teachablecdn.com/WMZs895SQiKdUlfCjaYV,Not avilable
+20,Event Arguments ,https://cdn.fs.teachablecdn.com/ge2yQGizTOU9U2Ows3KC,Not avilable
+21,Extending EventEmitter ,https://cdn.fs.teachablecdn.com/CKcgzlxxQBevBkX7EDIg,Not avilable
+22,HTTP Module ,https://cdn.fs.teachablecdn.com/NJKh1y1aSAGKHy6K2xOj,Not avilable
+23,Node Core Recap ,https://cdn.fs.teachablecdn.com/6d7RPW2dRtyz6ye6dKQg,Not avilable
+24,Introduction ,https://cdn.fs.teachablecdn.com/2uxYRPnQPeBQnhXzkCQV,Not avilable
+25,Package.json ,https://cdn.fs.teachablecdn.com/eZvEPw3ORIjxklrsJTA7,Not avilable
+26,Installing a Node Package ,https://cdn.fs.teachablecdn.com/euSKDRanR8enZZLSWzbj,Not avilable
+27,Using a Package ,https://cdn.fs.teachablecdn.com/wzTDOKaQYqrW0Fy74O1I,Not avilable
+28,Package Dependencies ,https://cdn.fs.teachablecdn.com/y9OHS6mhRieFY4uHlBJS,Not avilable
+29,NPM Packages and Source Control ,https://cdn.fs.teachablecdn.com/ebr1GdA6RI6PiWzVnvII,Not avilable
+30,Semantic Versioning ,https://cdn.fs.teachablecdn.com/DL0ONlyjTXmLRm2Pwjzm,Not avilable
+31,Listing the Installed Packages ,https://cdn.fs.teachablecdn.com/oN7SbqGZQ4aM55D4K4Rp,Not avilable
+32,Viewing Registry Info for a Package ,https://cdn.fs.teachablecdn.com/U379HnCOTfK9JQZdDdE7,Not avilable
+33,Installing a Specific Version of a Package ,https://cdn.fs.teachablecdn.com/sYp709zUQ76HkrRZJ335,Not avilable
+34,Updating Local Packages ,https://cdn.fs.teachablecdn.com/IYGfxaLGQF2AyOuOYCgO,Not avilable
+35,DevDependencies ,https://cdn.fs.teachablecdn.com/hL4YoT8QsGR0hhwPfaSd,Not avilable
+36,Uninstalling a Package ,https://cdn.fs.teachablecdn.com/v1Sb0AclR4Ohdj25FhfY,Not avilable
+37,Working with Global Packages ,https://cdn.fs.teachablecdn.com/A22Ecxx8RLXtdLnaNX7c,Not avilable
+38,Publishing a Package ,https://cdn.fs.teachablecdn.com/pguViPQMSTOQle1RF0gd,Not avilable
+39,Updating a Published Package ,https://cdn.fs.teachablecdn.com/xPFOFJ26RwyqF0xOIPjc,Not avilable
+40,NPM Recap ,https://cdn.fs.teachablecdn.com/lVw4HfRhSEqg6ovgNFjY,Not avilable
+41,Introduction ,https://cdn.fs.teachablecdn.com/sI56kb1RQHO06ZBOGiB5,Not avilable
+42,RESTful Services ,https://cdn.fs.teachablecdn.com/brV3X8rdTPK0qdGV7YEr,Not avilable
+43,Introducing Express ,https://cdn.fs.teachablecdn.com/4LzGfF1HTxu70bWMWaM9,Not avilable
+44,Building Your First Web Server ,https://cdn.fs.teachablecdn.com/8sDBZo9zQCS4Gg4V70in,Not avilable
+45,Nodemon ,https://cdn.fs.teachablecdn.com/Vo85e9uMQ5yxs0Qse2AL,Not avilable
+46,Environment Variables ,https://cdn.fs.teachablecdn.com/1CtPL6k1Q3tlNZDVRQO0,Not avilable
+47,Route Parameters ,https://cdn.fs.teachablecdn.com/HowQrm4TQpGT8qAiWAq4,Not avilable
+48,Handling HTTP GET Requests ,https://cdn.fs.teachablecdn.com/QJFyUm6fQ9asr75ZvUNw,Not avilable
+49,Handling HTTP POST Requests ,https://cdn.fs.teachablecdn.com/18CnyEUMQeGc0eVygGPV,Not avilable
+50,Calling Endpoints Using Postman ,https://cdn.fs.teachablecdn.com/G9zgOfrTTCHwPBDNR2Og,Not avilable
+51,Input Validation ,https://cdn.fs.teachablecdn.com/TKjtAdUR3qKPbBkgDPkH,Not avilable
+52,Handling HTTP PUT Requests ,https://cdn.fs.teachablecdn.com/sAv8UUzRkmv5asoHUjPS,Not avilable
+53,Handling HTTP Delete Requests ,https://cdn.fs.teachablecdn.com/o97HHakQSOmY0Pzyptcb,Not avilable
+54,Project- Build the Genres API ,https://cdn.fs.teachablecdn.com/2US7jGpxS9KQWcyGOBq0,Not avilable
+55,Building RESTful APIs with Express Recap ,https://cdn.fs.teachablecdn.com/TGnaiPmZTf26k38WUcFE,Not avilable
+56,A Quick Note ,Not avilable,"May I ask you a favor?
+Could you please take a minute and share your feedback about my Node course on Twitter? With your support, I can create more courses like this for you and other developers in our community.
+Please mention me @moshhamedani and include #node #nodejs in your tweet.
+Thank you so much!"
+57,1- Introduction ,https://cdn.fs.teachablecdn.com/a9aGI1TQGery4WGPTNPA,Not avilable
+58,2- Middleware ,https://cdn.fs.teachablecdn.com/S1ZW9Gf8T9a2ON0VBTHa,Not avilable
+59,3- Creating Custom Middleware ,https://cdn.fs.teachablecdn.com/OQJRNrE4Tt6FwEL5tIbg,Not avilable
+60,4- Built-in Middleware ,https://cdn.fs.teachablecdn.com/EvQXjSlQ1CuWcUUvXll8,Not avilable
+61,5- Third-party Middleware ,https://cdn.fs.teachablecdn.com/XeEditGSFapvYq8hopyQ,Not avilable
+62,6- Environments ,https://cdn.fs.teachablecdn.com/YAOeEmwTGyp9eL0mntYT,Not avilable
+63,7- Configuration ,https://cdn.fs.teachablecdn.com/orBHR8TfRoOgWQ22qvsQ,Not avilable
+64,8- Debugging ,https://cdn.fs.teachablecdn.com/raSqX8zNQHyLxlTcvPUb,Not avilable
+65,9- Templating Engines ,https://cdn.fs.teachablecdn.com/wEa7lN9xQLiy2QxbMQXd,Not avilable
+66,10- Database Integration ,https://cdn.fs.teachablecdn.com/MSajpY2uQcKjc6nemXBl,Not avilable
+67,11- Authentication ,https://cdn.fs.teachablecdn.com/MdBq74mSFKgpczX6XnnZ,Not avilable
+68,12- Structuring Express Applications ,https://cdn.fs.teachablecdn.com/1GuxxfIXTNeQvnOEdlac,Not avilable
+69,13- Project- Restructure the App ,https://cdn.fs.teachablecdn.com/wvdMP8RTaiy7iQjXSFgg,Not avilable
+70,Express- Advanced Topics Recap ,https://cdn.fs.teachablecdn.com/WXPrDjaSQvCCXaYHiZAK,Not avilable
+71,1- Synchronous vs Asynchronous Code ,https://cdn.fs.teachablecdn.com/jwV1NvOwTquwWA97xPg7,Not avilable
+72,2- Patterns for Dealing with Asynchronous Code ,https://cdn.fs.teachablecdn.com/x51Tw9BAShu6UcHaSbWe,Not avilable
+73,3- Callbacks ,https://cdn.fs.teachablecdn.com/23Gec0o7TqSlzyMR9KiP,Not avilable
+74,4- Callback Hell ,https://cdn.fs.teachablecdn.com/oO8NNrujTzilELiQWtrI,Not avilable
+75,5- Named Functions to Rescue ,https://cdn.fs.teachablecdn.com/xxJB2AyfR7Gbu5iJnn04,Not avilable
+76,6- Promises ,https://cdn.fs.teachablecdn.com/OJgHYAAFQYCa8tC9wIoN,Not avilable
+77,7- Replacing Callbacks with Promises ,https://cdn.fs.teachablecdn.com/3XpDF7fnQFWFh9K7bNXo,Not avilable
+78,8- Consuming Promises ,https://cdn.fs.teachablecdn.com/bVr8ugosQfmnX1YdIXFE,Not avilable
+79,9- Creating Settled Promises ,https://cdn.fs.teachablecdn.com/d0XWSvhlS5Cy8JSvSqOm,Not avilable
+80,10- Running Promises in Parallel ,https://cdn.fs.teachablecdn.com/nZQHsQCfR29FytMfcxg4,Not avilable
+81,11- Async and Await ,https://cdn.fs.teachablecdn.com/6K5vOCXVSrKDD17eziuD,Not avilable
+82,12- Exercise ,https://cdn.fs.teachablecdn.com/6YrJQnURTeGimCZe29PV,Not avilable
+83,1- Introducing MongoDB ,https://cdn.fs.teachablecdn.com/YuxVZbrKT1Cu3KdLNWep,Not avilable
+84,2- Installing MongoDB on Mac ,https://cdn.fs.teachablecdn.com/khKMThJQwaNpm9EwUkTt,Not avilable
+85,3- Installing MongoDB on Windows ,https://cdn.fs.teachablecdn.com/gQ4SkSPASkihGO3oog7K,Not avilable
+86,4- Connecting to MongoDB ,https://cdn.fs.teachablecdn.com/bom9hV0qRlOohXQoZpmS,Not avilable
+87,5- Schemas ,https://cdn.fs.teachablecdn.com/e4uyaET7C7FEFELXZCFw,Not avilable
+88,6- Models ,https://cdn.fs.teachablecdn.com/SR9HKfeQS6qUEDF1cBcx,Not avilable
+89,7- Saving a Document ,https://cdn.fs.teachablecdn.com/X4qi1b2iQeSIsh64zQGV,Not avilable
+90,8- Querying Documents ,https://cdn.fs.teachablecdn.com/7c041jP4Rm2pECOffcuP,Not avilable
+91,9- Comparison Query Operators ,https://cdn.fs.teachablecdn.com/orBjefQe6kQY272T2Mtw,Not avilable
+92,10- Logical Query Operators ,https://cdn.fs.teachablecdn.com/wFAXz85MTbelSAjFTiRB,Not avilable
+93,11- Regular Expressions ,https://cdn.fs.teachablecdn.com/JokeIyJhRSqCFhRojqzD,Not avilable
+94,12- Counting ,https://cdn.fs.teachablecdn.com/lWIu4G6hSGW2okT0kvap,Not avilable
+95,13- Pagination ,https://cdn.fs.teachablecdn.com/gN4wlygrSdWHJOmKuvgj,Not avilable
+96,14- Exercise 1 ,https://cdn.fs.teachablecdn.com/W6Oy04cSKWoacg72UJlh,Not avilable
+97,15- Exercise 2 ,https://cdn.fs.teachablecdn.com/jGnJZyAgSFudKOwBu2ms,Not avilable
+98,16- Exercise 3 ,https://cdn.fs.teachablecdn.com/zqcQahfrRYutbGnbEG4j,Not avilable
+99,17- Updating a Document- Query First ,https://cdn.fs.teachablecdn.com/tbwsYoEqTnaeKfnsngxP,Not avilable
+100,18- Updating a Document- Update First ,https://cdn.fs.teachablecdn.com/0W7nNfcReOFtY2c9qdyX,Not avilable
+101,19- Removing Documents ,https://cdn.fs.teachablecdn.com/u2o9jPzpQMW4rSpeLLhQ,Not avilable
+102,CRUD Operations with Mongoose and MongoDB Recap ,https://cdn.fs.teachablecdn.com/8PLSapMTVeWbBVLnNrxz,Not avilable
+103,1- Validation ,https://cdn.fs.teachablecdn.com/PVhJ0xURzu6RUHrxHGST,Not avilable
+104,2- Built-in Validators ,https://cdn.fs.teachablecdn.com/zuilD3k2R4SM0haZg9Om,Not avilable
+105,3- Custom Validators ,https://cdn.fs.teachablecdn.com/gsXOwjzpRgu7YfhBKuNo,Not avilable
+106,4- Async Validators ,https://cdn.fs.teachablecdn.com/gxID6tLTPCUgMizd7UBi,Not avilable
+107,5- Validation Errors ,https://cdn.fs.teachablecdn.com/HFdRcV32QRcS4lhaOg2A,Not avilable
+108,6- SchemaType Options ,https://cdn.fs.teachablecdn.com/EmsBIUFoRfmyx6nhSo7B,Not avilable
+109,7- Project- Add Persistence to Genres API ,https://cdn.fs.teachablecdn.com/lbNSQ3eShmxKzRbiyYqG,Not avilable
+110,8- Project- Build the Customers API ,https://cdn.fs.teachablecdn.com/BFGSMl5lS1ujD7FRNn2E,Not avilable
+111,9- Restructuring the Project ,https://cdn.fs.teachablecdn.com/y66nZ1MrSvGioscZOVKw,Not avilable
+112,Mongoose Validation Recap ,https://cdn.fs.teachablecdn.com/KXGguOQGQ96S7g6hCJwq,Not avilable
+113,1- Modelling Relationships ,https://cdn.fs.teachablecdn.com/CGeGbwIPThKt4NBynBMx,Not avilable
+114,2- Referencing Documents ,https://cdn.fs.teachablecdn.com/dRNtJS44SZiRj04Ykqsn,Not avilable
+115,3- Population ,https://cdn.fs.teachablecdn.com/PAmzuEOR8aDHqnScsHzZ,Not avilable
+116,4- Embedding Documents ,https://cdn.fs.teachablecdn.com/X42TgOmSBC86xJYY05IO,Not avilable
+117,5- Using an Array of Sub-documents ,https://cdn.fs.teachablecdn.com/n60iUdTvRtOx33Ngl2WA,Not avilable
+118,6- Project- Build the Movies API ,https://cdn.fs.teachablecdn.com/L52BrtIvSZW0tkY73qjx,Not avilable
+119,7- Project- Build the Rentals API ,https://cdn.fs.teachablecdn.com/UeN7bGAcQtCbu4Zizzqm,Not avilable
+120,8- Transactions ,https://cdn.fs.teachablecdn.com/DWbB7jQ5SZa9lC8ITV4P,Not avilable
+121,9- ObjectID ,https://cdn.fs.teachablecdn.com/XSCLa62VTPa5nykSUd1p,Not avilable
+122,10- Validating ObjectIDs ,https://cdn.fs.teachablecdn.com/IzQHoDsQQuKMHyTAWcp0,Not avilable
+123,11- A Better Implementation ,https://cdn.fs.teachablecdn.com/B3ei53dYTvh4c7OFGZHw,Not avilable
+124,Mongoose- Modelling Relationships between Connected Data Recap ,https://cdn.fs.teachablecdn.com/38ZAJb4oSTGiAEDbJHyW,Not avilable
+125,1- Introduction ,https://cdn.fs.teachablecdn.com/MHPzonjmTsKqQeNzaBTY,Not avilable
+126,2- Creating the User Model ,https://cdn.fs.teachablecdn.com/pjH9R394QAm6ICVlRvM3,Not avilable
+127,3- Registering Users ,https://cdn.fs.teachablecdn.com/ZMjbH4QLS6J4r2NMIOpy,Not avilable
+128,4- Using Lodash ,https://cdn.fs.teachablecdn.com/x1uLydW5T2zCaEl05cew,Not avilable
+129,5- Hashing Passwords ,https://cdn.fs.teachablecdn.com/ojT10oi3TSycWAN6pwCA,Not avilable
+130,6- Authenticating Users ,https://cdn.fs.teachablecdn.com/W3CDHzQTcafyMKBvl0J1,Not avilable
+131,7- Testing the Authentication ,https://cdn.fs.teachablecdn.com/eS1PAmcQ2SdQbNHdBhe2,Not avilable
+132,8- JSON Web Tokens ,https://cdn.fs.teachablecdn.com/4qiYXjelSh62ePkdepnI,Not avilable
+133,9- Generating Authentication Tokens ,https://cdn.fs.teachablecdn.com/CjGzIuXAQfm8DHVUFFTy,Not avilable
+134,10- Storing Secrets in Environment Variables ,https://cdn.fs.teachablecdn.com/uIlUeVQ0qZz5N621rZaw,Not avilable
+135,11- Setting Response Headers ,https://cdn.fs.teachablecdn.com/TWtVBMGQpG8xkS27UP6M,Not avilable
+136,12- Encapsulating Logic in Mongoose Models ,https://cdn.fs.teachablecdn.com/3nIfaSkLQwyubpJqN59O,Not avilable
+137,13- Authorization Middleware ,https://cdn.fs.teachablecdn.com/UPXwek0lQhKPJG6EmwSg,Not avilable
+138,14- Protecting Routes ,https://cdn.fs.teachablecdn.com/znSwM3BgQ6yMbQm5NLRO,Not avilable
+139,15- Getting the Current User ,https://cdn.fs.teachablecdn.com/EYzh13QBQiBA4KtvQilz,Not avilable
+140,16- Logging Out Users ,https://cdn.fs.teachablecdn.com/rLxMQxT3Rle3X9F6r72v,Not avilable
+141,17- Role-based Authorization ,https://cdn.fs.teachablecdn.com/KpYh7DirRuGjXMqKOupW,Not avilable
+142,18- Testing the Authorization ,https://cdn.fs.teachablecdn.com/iwEmmx2LTjavGOeYW3j3,Not avilable
+143,Authentication and Authorization Recap ,https://cdn.fs.teachablecdn.com/ihg3JBI9RH68CkuoRpIJ,Not avilable
+144,1- Introduction ,https://cdn.fs.teachablecdn.com/FL1YHcL0TaSvs8iQj0k1,Not avilable
+145,2- Handling Rejected Promises ,https://cdn.fs.teachablecdn.com/wlbhKAbnSWmzFGp35OzY,Not avilable
+146,3- Express Error Middleware ,https://cdn.fs.teachablecdn.com/9JAHCvEBRaKyFpqmMB9n,Not avilable
+147,4- Removing Try Catch Blocks ,https://cdn.fs.teachablecdn.com/NWizkZnGSSCu9Mx1Nvu1,Not avilable
+148,5- Express Async Errors ,https://cdn.fs.teachablecdn.com/yGWx1r8yQm2IU3IJyToo,Not avilable
+149,6- Logging Errors ,https://cdn.fs.teachablecdn.com/nSLqfA1iRVmBaJsfMVTv,Not avilable
+150,7- Logging to MongoDB ,https://cdn.fs.teachablecdn.com/Qa0W7PNpShKvBpthBgsg,Not avilable
+151,8- Uncaught Exceptions ,https://cdn.fs.teachablecdn.com/GEx1MXBqQxemkviNU3gg,Not avilable
+152,9- Unhandled Promise Rejections ,https://cdn.fs.teachablecdn.com/RIGGiITMQC2nYRGaAfU2,Not avilable
+153,10- Error Handling Recap ,https://cdn.fs.teachablecdn.com/xsLJYlaxSOXlQ7EgAwSz,Not avilable
+154,11- Extracting Routes ,https://cdn.fs.teachablecdn.com/OXpmkHWARPK1nEweUkaQ,Not avilable
+155,12- Extracting the Db Logic ,https://cdn.fs.teachablecdn.com/ttYxvHDS8WNiv7H9Nhwi,Not avilable
+156,13- Extracting the Logging Logic ,https://cdn.fs.teachablecdn.com/XQOMGJuFQd6GOAJXwGZA,Not avilable
+157,14- Extracting the Config Logic ,https://cdn.fs.teachablecdn.com/Oj0BlgFsSiE0Bl8seJas,Not avilable
+158,15- Extracting the Validation Logic ,https://cdn.fs.teachablecdn.com/WIpf5odDQQ2MCWnOQrAo,Not avilable
+159,16- Showing Unhandled Exceptions on the Console ,https://cdn.fs.teachablecdn.com/mXi4HjU3QAWg5HNPJX8f,Not avilable
+160,17- Handling and Logging Errors Recap ,https://cdn.fs.teachablecdn.com/tUV3t9DQ0mIvr2Ehn10Q,Not avilable
+161,1- What is Automated Testing ,https://cdn.fs.teachablecdn.com/KuD8CFF8Tv6BD1mjEsG6,Not avilable
+162,2- Benefits of Automated Testing ,https://cdn.fs.teachablecdn.com/oCUyjfmTj6oTwhpFeiBN,Not avilable
+163,3- Types of Tests ,https://cdn.fs.teachablecdn.com/cq9OqSdKRq6HtZ0Qz1A5,Not avilable
+164,4- Test Pyramid ,https://cdn.fs.teachablecdn.com/PZiooYVRimTkltzuS5HK,Not avilable
+165,5- Tooling ,https://cdn.fs.teachablecdn.com/oMGWtpQcyXM56tCwIawl,Not avilable
+166,6- Writing Your First Unit Test ,https://cdn.fs.teachablecdn.com/5ZReFR3qTu2vFR58gYOj,Not avilable
+167,7- Testing Numbers ,https://cdn.fs.teachablecdn.com/Y69tjBYuSv2IWU6Tw5bD,Not avilable
+168,8- Grouping Tests ,https://cdn.fs.teachablecdn.com/01ibWZ0bSO2W5D2oa4AN,Not avilable
+169,9- Refactoring with Confidence ,https://cdn.fs.teachablecdn.com/jEp1GkFZSGyN7kSmpdRL,Not avilable
+170,10- Testing Strings ,https://cdn.fs.teachablecdn.com/4PFsKDnQ1CPNygH6gm8A,Not avilable
+171,11- Testing Arrays ,https://cdn.fs.teachablecdn.com/jaLBKjqYSUSJHdLg22yw,Not avilable
+172,12- Testing Objects ,https://cdn.fs.teachablecdn.com/ZRhdIPwuRoKJunprrcng,Not avilable
+173,13- Testing Exceptions ,https://cdn.fs.teachablecdn.com/CKYsQ1V0S8GAYyzhxzZX,Not avilable
+174,14- Continuously Running Tests ,https://cdn.fs.teachablecdn.com/KWKhx77xQAiT4wvmO1vj,Not avilable
+175,15- Exercise- Testing the FizzBuz ,https://cdn.fs.teachablecdn.com/hsKmjRTRoanz8558o8KH,Not avilable
+176,16- Creating Simple Mock Functions ,https://cdn.fs.teachablecdn.com/FSJXpGw8RwiEX7KBi4pI,Not avilable
+177,17- Interaction Testing ,https://cdn.fs.teachablecdn.com/cwPz5FkKTLGmJMZtt3jy,Not avilable
+178,18- Jest Mock Functions ,https://cdn.fs.teachablecdn.com/A5kPCCBxT9yF5CJrNkPi,Not avilable
+179,19- What to Unit Test ,https://cdn.fs.teachablecdn.com/H2FjY8LfTa6vcOqhw6zd,Not avilable
+180,20- Exercise ,https://cdn.fs.teachablecdn.com/tXZS7uTrSrLVKXm4L9gH,Not avilable
+181,Unit Testing Recap ,https://cdn.fs.teachablecdn.com/OxfBN43XRRKMg4KAYbYY,Not avilable
+182,1- Introduction ,https://cdn.fs.teachablecdn.com/GANeARoaTiOJNcs5rFC5,Not avilable
+183,2- Preparing the App ,https://cdn.fs.teachablecdn.com/tJEgrNdKTUWvVWKUZBe0,Not avilable
+184,3- Setting Up the Test Db ,https://cdn.fs.teachablecdn.com/vQwXUsDsSOmNNcs3z2b9,Not avilable
+185,4- Your First Integration Test ,https://cdn.fs.teachablecdn.com/MKylN2qTd25faMJv8yBA,Not avilable
+186,5- Populating the Test Db ,https://cdn.fs.teachablecdn.com/fLx63Yw1R6qlqpTq8CYr,Not avilable
+187,6- Testing Routes with Parameters ,https://cdn.fs.teachablecdn.com/S0Tj4jFiSwa5qWK3Pz6l,Not avilable
+188,7- Validating ObjectIDs ,https://cdn.fs.teachablecdn.com/zreWULsWQKmBY18ewpYf,Not avilable
+189,8- Refactoring with Confidence ,https://cdn.fs.teachablecdn.com/gAcpUI1kROaERNADcHH5,Not avilable
+190,9- Testing the Authorization ,https://cdn.fs.teachablecdn.com/068yPFhbS4WLOOpHaev0,Not avilable
+191,10- Testing the Invalid Inputs ,https://cdn.fs.teachablecdn.com/FfGv3ugeQcSHnudAnAW7,Not avilable
+192,11- Testing the Happy Path ,https://cdn.fs.teachablecdn.com/4A5ub9wvRWWXker1R7Lg,Not avilable
+193,12- Writing Clean Tests ,https://cdn.fs.teachablecdn.com/DpXuwkebTIKrUwyPolwP,Not avilable
+194,13- Testing the Auth Middleware ,https://cdn.fs.teachablecdn.com/G919kmnDTHlgQoDOU9Ug,Not avilable
+195,14- Unit Testing the Auth Middleware ,https://cdn.fs.teachablecdn.com/RsadEyTQPo7sAaDn6wfQ,Not avilable
+196,15- Code Coverage ,https://cdn.fs.teachablecdn.com/L1dIEqZkTZGfFz41LWV8,Not avilable
+197,16- Exercise ,https://cdn.fs.teachablecdn.com/fSQu6wLiRs2NiLXdy5pr,Not avilable
+198,Integration Testing Recap ,https://cdn.fs.teachablecdn.com/uK0bTQGQQStgAxkdEuK2,Not avilable
+199,1- What is Test-driven Development ,https://cdn.fs.teachablecdn.com/Fr1Z539S5S1esq7hCYBw,Not avilable
+200,2- Implementing the Returns ,https://cdn.fs.teachablecdn.com/E2W8jvioSpyUw3DdJF71,Not avilable
+201,3- Test Cases ,https://cdn.fs.teachablecdn.com/3pdEwkgSjeNmRAz9dXzn,Not avilable
+202,4- Populating the Database ,https://cdn.fs.teachablecdn.com/5f8prqrPTi2sgQgjqzvQ,Not avilable
+203,5- Testing the Authorization ,https://cdn.fs.teachablecdn.com/z09sj9lWTlzCWwdhMx9I,Not avilable
+204,6- Testing the Input ,https://cdn.fs.teachablecdn.com/e6pgRSFXS2CjcYC6hNQQ,Not avilable
+205,7- Refactoring Tests ,https://cdn.fs.teachablecdn.com/KY8kjvscQTKN1FhZFxXM,Not avilable
+206,8- Looking Up an Object ,https://cdn.fs.teachablecdn.com/Bi1KimDgRBi5zfJpFRNV,Not avilable
+207,9- Testing if Rental Processed ,https://cdn.fs.teachablecdn.com/sEw0ZwkjSZKtDMdhNwYU,Not avilable
+208,10- Testing the Valid Request ,https://cdn.fs.teachablecdn.com/R9O4AEHhRH2GCZMFeYm1,Not avilable
+209,11- Testing the ReturnDate ,https://cdn.fs.teachablecdn.com/Jfihzg4FQSyetbcbxcX4,Not avilable
+210,12- Testing the RentalFee ,https://cdn.fs.teachablecdn.com/mHXa1NrSTFiUi1iSbuYD,Not avilable
+211,13- Testing the Movie Stock ,https://cdn.fs.teachablecdn.com/PJuhgfRqQdGm5sUDmb1n,Not avilable
+212,14- Testing the Response ,https://cdn.fs.teachablecdn.com/xOusujanS7e5oiGX05dN,Not avilable
+213,15- Refactoring the Validation Logic ,https://cdn.fs.teachablecdn.com/PIlgceqpRIiWV4mZ0QDC,Not avilable
+214,16- Mongoose Static Methods ,https://cdn.fs.teachablecdn.com/v4lNdm3TRn6Zg5gT7XfE,Not avilable
+215,17- Refactoring the Domain Logic ,https://cdn.fs.teachablecdn.com/NV0b2XtTwuSOvrBMpnv8,Not avilable
+216,1- Introduction ,https://cdn.fs.teachablecdn.com/ReR3AypaTEiZ2ymDTtQw,Not avilable
+217,2- Preparing the App for Production ,https://cdn.fs.teachablecdn.com/VMy8afgS3ifZX1BVZ0Bw,Not avilable
+218,3- Getting Started with Heroku ,https://cdn.fs.teachablecdn.com/x77kQcKARgm8F8oEwxvj,Not avilable
+219,4- Preparing the App for Heroku ,https://cdn.fs.teachablecdn.com/O9yhokbkT82lxsJu0fn6,Not avilable
+220,5- Adding the Code to a Git Repository ,https://cdn.fs.teachablecdn.com/67HjqHT62qHaVP6q2grj,Not avilable
+221,6- Deploying to Heroku ,https://cdn.fs.teachablecdn.com/u0lZEnAaT8yjDl3aJpOm,Not avilable
+222,7- Viewing Logs ,https://cdn.fs.teachablecdn.com/xQCclmZ3SZ2eSvEpu99t,Not avilable
+223,8- Setting Environment Variables ,https://cdn.fs.teachablecdn.com/4XEJWL5cQJGWuhe1mr88,Not avilable
+224,9- MongoDB in the Cloud ,https://cdn.fs.teachablecdn.com/g3Vhe06TgOoj0xFyBANi,Not avilable
+225,10- Wrap Up ,Not avilable,"Congratulations on completing this course! I hope you've learned a lot and I'll see you again in my other courses.
+May I ask you a favor?
+Could you please take a minute and share your feedback about my Node course on Twitter? With your support, I can create more courses like this for you and other developers in our community.
+Please mention me @moshhamedani and include #node #nodejs in your tweet.
+Thank you so much!"
+226,11- What to Learn Next ,Not avilable,"What to Learn Next
+Ok, I guess you’re all fired up to learn more right now - it’s exciting when you start discovering new things!
+So, here's a short and sweet guideline on what to learn next. Also, as a valued student, I've got some awesome extra discounts for my other courses - as a thank you gift.
+As you've just seen, we use Node for building back-ends. Now, you can learn about front-end development which is all about building the front of an application: in other words - what the user sees and interacts with. A developer who knows both front and back-end development is called a full-stack developer. Full-stack developers earn more because they have more skills and are more useful to employers.
+The Ultimate Full-stack JavaScript Bundle
+If you want to learn everything there is to know about front-end and back-end development, I seriously recommend you go ahead and enrol on my Ultimate Full-stack JavaScript Bundle.
+This bundle has all my JavaScript courses for front-end and back-end development. Also, in this bundle you'll get any new related courses that I create - for free. Believe me, it's the ultimate way to learn and save money at the same time.
+To enrol with extra discounts use the link below:
+https://sso.teachable.com/secure/146684/checkout/992457/full-stack-javascript-developer-bundle?coupon_code=BAY39
+Front-end Development
+There are many different libraries and frameworks for building front-ends. React, Angular and Vue are the top three. Out of the three, React is the easiest to learn. So, I'd recommend you start there.
+To get my complete React course with extra discounts, use this link:
+https://sso.teachable.com/secure/146684/checkout/754264/mastering-react?coupon_code=BAY39
+Once you learn React, if you want to increase your job opportunities, you can learn Angular and Vue. I don't currently have a course about Vue but I'm planning to create one soon.
+To get my Angular course with extra discounts, use this link:
+https://sso.teachable.com/secure/146684/checkout/947508/angular-master-class?coupon_code=BAY39"
